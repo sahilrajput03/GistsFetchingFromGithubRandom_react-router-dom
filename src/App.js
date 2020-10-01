@@ -17,7 +17,7 @@ export default function App() {
   return (
     <div className="App">
       <Root>
-        <Router>
+        <Router basename="/GistsFetchingFromGithubRandom_react-router-dom">
           <Sidebar>
             {!loading
               ? gists.map((gist) => (
