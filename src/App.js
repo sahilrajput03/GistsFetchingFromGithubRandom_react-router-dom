@@ -7,7 +7,7 @@ const lg = (...arg) => console.log(...arg);
 
 export default function App() {
   //--
-  const url = "/gists.json";
+  const url = "gists.json";
   const { data: gists, loading } = useFetch(url);
   // const url = "https://api.github.com/gists";
   // const url = "https://loveapi.ml/fso/diagnoses.json";
