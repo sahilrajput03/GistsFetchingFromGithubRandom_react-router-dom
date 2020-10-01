@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/docs/static/css/main.fda2b7fd.chunk.css",
-    "main.js": "/docs/static/js/main.f7c79a10.chunk.js",
-    "main.js.map": "/docs/static/js/main.f7c79a10.chunk.js.map",
-    "runtime-main.js": "/docs/static/js/runtime-main.97541241.js",
-    "runtime-main.js.map": "/docs/static/js/runtime-main.97541241.js.map",
-    "static/js/2.ec150881.chunk.js": "/docs/static/js/2.ec150881.chunk.js",
-    "static/js/2.ec150881.chunk.js.map": "/docs/static/js/2.ec150881.chunk.js.map",
-    "index.html": "/docs/index.html",
-    "precache-manifest.5180b40a5cb96d82bca2d959c76181a7.js": "/docs/precache-manifest.5180b40a5cb96d82bca2d959c76181a7.js",
-    "service-worker.js": "/docs/service-worker.js",
-    "static/css/main.fda2b7fd.chunk.css.map": "/docs/static/css/main.fda2b7fd.chunk.css.map",
-    "static/js/2.ec150881.chunk.js.LICENSE.txt": "/docs/static/js/2.ec150881.chunk.js.LICENSE.txt"
+    "main.css": "/GistsFetchingFromGithubRandom_react-router-dom/static/css/main.fda2b7fd.chunk.css",
+    "main.js": "/GistsFetchingFromGithubRandom_react-router-dom/static/js/main.f7c79a10.chunk.js",
+    "main.js.map": "/GistsFetchingFromGithubRandom_react-router-dom/static/js/main.f7c79a10.chunk.js.map",
+    "runtime-main.js": "/GistsFetchingFromGithubRandom_react-router-dom/static/js/runtime-main.b17a8523.js",
+    "runtime-main.js.map": "/GistsFetchingFromGithubRandom_react-router-dom/static/js/runtime-main.b17a8523.js.map",
+    "static/js/2.ec150881.chunk.js": "/GistsFetchingFromGithubRandom_react-router-dom/static/js/2.ec150881.chunk.js",
+    "static/js/2.ec150881.chunk.js.map": "/GistsFetchingFromGithubRandom_react-router-dom/static/js/2.ec150881.chunk.js.map",
+    "index.html": "/GistsFetchingFromGithubRandom_react-router-dom/index.html",
+    "precache-manifest.57b352becf60b50697912007978babc6.js": "/GistsFetchingFromGithubRandom_react-router-dom/precache-manifest.57b352becf60b50697912007978babc6.js",
+    "service-worker.js": "/GistsFetchingFromGithubRandom_react-router-dom/service-worker.js",
+    "static/css/main.fda2b7fd.chunk.css.map": "/GistsFetchingFromGithubRandom_react-router-dom/static/css/main.fda2b7fd.chunk.css.map",
+    "static/js/2.ec150881.chunk.js.LICENSE.txt": "/GistsFetchingFromGithubRandom_react-router-dom/static/js/2.ec150881.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.97541241.js",
+    "static/js/runtime-main.b17a8523.js",
     "static/js/2.ec150881.chunk.js",
     "static/css/main.fda2b7fd.chunk.css",
     "static/js/main.f7c79a10.chunk.js"
